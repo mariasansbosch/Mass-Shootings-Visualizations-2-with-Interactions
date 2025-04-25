@@ -1,0 +1,52 @@
+State,Region,FIPS_States
+Alabama,Southeast,1
+Alaska,Northwest,2
+Arizona,Southwest,4
+Arkansas,Southeast,5
+California,Southwest,6
+Colorado,Southwest,8
+Connecticut,Northeast,9
+Delaware,Northeast,10
+District of Columbia,Northeast,11
+Florida,Southeast,12
+Georgia,Southeast,13
+Hawaii,Northwest,15
+Idaho,Northwest,16
+Illinois,Midwest,17
+Indiana,Midwest,18
+Iowa,Midwest,19
+Kansas,Midwest,20
+Kentucky,Southeast,21
+Louisiana,Southeast,22
+Maine,Northeast,23
+Maryland,Southeast,24
+Massachusetts,Northeast,25
+Michigan,Midwest,26
+Minnesota,Midwest,27
+Mississippi,Southeast,28
+Missouri,Midwest,29
+Montana,Northwest,30
+Nebraska,Midwest,31
+Nevada,Southwest,32
+New Hampshire,Northeast,33
+New Jersey,Northeast,34
+New Mexico,Southwest,35
+New York,Northeast,36
+North Carolina,Southeast,37
+North Dakota,Midwest,38
+Ohio,Midwest,39
+Oklahoma,Southwest,40
+Oregon,Northwest,41
+Pennsylvania,Northeast,42
+Rhode Island,Northeast,44
+South Carolina,Southeast,45
+South Dakota,Midwest,46
+Tennessee,Southeast,47
+Texas,Southwest,48
+Utah,Southwest,49
+Vermont,Northeast,50
+Virginia,Southeast,51
+Washington,Northwest,53
+West Virginia,Southeast,54
+Wisconsin,Midwest,55
+Wyoming,Northwest,56
